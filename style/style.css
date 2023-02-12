@@ -380,8 +380,7 @@ h1 {
   justify-content: space-between;
   margin-top: 25px;
 }
-.fa-solid.fa-arrow-right-long {
-  width: 20px;
+.arrow {
   height: 20px;
   color: #c4c4c4;
   margin-top: 6px;
